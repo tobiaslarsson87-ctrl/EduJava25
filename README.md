@@ -1,2 +1,2 @@
-# EduJava25
+# Tobias Larsson
 For everything education related
