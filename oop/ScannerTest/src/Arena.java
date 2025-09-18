@@ -8,6 +8,8 @@ public class Arena {
 
     //Metoder för att kalla player + monster
     public void battleBandit(Player player){
-        BattleScene.battle(player, bandit);
+        BattleScene battleScene = new BattleScene();
+        battleScene.battle(player, bandit);
     }
 }
+
